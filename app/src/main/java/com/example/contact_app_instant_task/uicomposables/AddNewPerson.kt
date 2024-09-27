@@ -130,7 +130,7 @@ Spacer(modifier = Modifier.padding(3.dp))
                 .wrapContentSize()
         ) {
             Text(
-                text = "Add new task",
+                text = "Save",
                 fontSize = 20.sp,
                 fontWeight = FontWeight.Bold,
                 color = Color.White
